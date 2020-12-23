@@ -1,6 +1,9 @@
 # collect_coins
 Awesome and good game styled in grid and based on ES 6 
 
+# next update
+drop champion images randomly after score and add fight with monsters
+
 Play Now
  https://www.w3schools.com/code/tryit.asp?filename=GLXUWUPIE05L
 
