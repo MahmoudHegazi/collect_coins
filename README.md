@@ -15,3 +15,5 @@ How To Play this game:
 <img src="addon.JPG">
 
 <img src="gameee.JPG">
+
+<img src="gameee3.JPG">
