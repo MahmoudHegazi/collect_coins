@@ -16,4 +16,4 @@ How To Play this game:
 
 <img src="gameee.JPG">
 
-<img src="gameee3.JPG">
+<img src="gameeee.JPG">
