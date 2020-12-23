@@ -9,4 +9,4 @@ How To Play this game:
 4. after a while and then show and also help you to survive after you missed an coin 
 5. the winner who never missed a coin and make all map white will get the gold arrow
 
-<img src="golden_arrow.JPG"
+<img src="golden_arrow.JPG">
