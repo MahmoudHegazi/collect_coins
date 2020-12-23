@@ -152,7 +152,7 @@ function myFunction(event) {
   parent.appendChild(champ);
   // add 1 to score
   score_index += 1
-    chat.textContent = "Greate: You Found a Coin your Score " + score_index;
+    chat.textContent = "Greate: You Found a Coin your Score " + score;
   score.textContent = score_index;
     
   }
@@ -161,8 +161,7 @@ function myFunction(event) {
   
 }
 function drop_coins() {
-  let first = Math.floor((Math.random() * 2) + 1);
-  let second = Math.floor((Math.random() * 10) + 0);
+  let first = Math.floor((Math.random() * 33) + 0);
   let newimage = document.createElement('img');
   newimage.className = 'coin';
   newimage.src = 'https://www.clipartmax.com/png/middle/237-2370984_gold-coin-icon-png-coin-icon-game.png';
@@ -170,8 +169,8 @@ function drop_coins() {
   newimage.style.height = '50px';
   steps[first].appendChild(newimage);
   steps[first].style.background = "white";
-  steps[first+second].appendChild(newimage);
-  steps[first+second].style.background = "white";
+  steps[first].appendChild(newimage);
+  steps[first].style.background = "white";
   
 
 
