@@ -1,6 +1,8 @@
 # collect_coins
 Awesome and good game styled in grid and based on ES 6 
 
+Play Now
+ https://www.w3schools.com/code/tryit.asp?filename=GLXUWUPIE05L
 
 How To Play this game:
 1. You can click on map and move with your  brave champion use mouse to move.
