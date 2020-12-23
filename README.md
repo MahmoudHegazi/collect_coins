@@ -9,3 +9,5 @@ How To Play this game:
 5. the winner who will make the map white faster in less score posible like the name 
 
 <img src="golden_arrow.JPG">
+
+<img src="addon.JPG">
