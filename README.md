@@ -11,3 +11,5 @@ How To Play this game:
 <img src="golden_arrow.JPG">
 
 <img src="addon.JPG">
+
+<img src="gameee.JPG">
